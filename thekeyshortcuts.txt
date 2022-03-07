@@ -1,0 +1,4 @@
+the beginning of the line : crl a
+the end of the like : crl e
+clear the line to the beginning of the line : crl u
+
